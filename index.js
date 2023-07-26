@@ -3,5 +3,5 @@ function sum(a,b){
     console.log(a+b);
 }
 
-sum(5+10);
+console.log(sum(5+10));
 
