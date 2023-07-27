@@ -1,4 +1,4 @@
-console.log("I Caused a Merge Conflict");
+console.log("Hello World");
 
 function sum(a,b){
     console.log(a+b);
